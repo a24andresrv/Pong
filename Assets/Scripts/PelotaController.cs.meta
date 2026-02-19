@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 26391e30e001597e2874241490dccd40
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - gameManager: {instanceID: 0}
+  - sfxPaddel: {fileID: 8300000, guid: 6e0ba199092f56494aed55eceffea120, type: 3}
+  - sfxFail: {fileID: 8300000, guid: 8863407967399e14ca43bc30bf37c1f2, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
